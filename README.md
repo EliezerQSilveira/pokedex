@@ -28,12 +28,7 @@ Esta Pokédex lista Pokémon usando a [PokéAPI](https://pokeapi.co/) com:
 ✔️ Estilo neon moderno nos cards e modal  
 ✔️ Busca por nome do Pokémon
 
-##  Como usar
 
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/EliezerQSilveira/pokedex.git
 ![Pokédex screenshot](./README.png)
 
 
